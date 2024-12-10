@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I have a strong passion for technology and programming, which I have nurtured alongside my career in finance and accounting. Throughout my professional journey, I have developed several task automation programs that have streamlined processes and enhanced efficiency in every role I've held.
+I have a strong passion for technology and programming, which I have developed alongside my career in finance and accounting. Throughout my professional journey, I have developed several task automation programs that have streamlined processes and enhanced efficiency in every role I've held.
 
 I am proficient in Linux, cybersecurity, Python, C, and Excel VBA, and I have experience with data analysis libraries such as Pandas, NumPy, and Matplotlib. My knowledge of C has provided me with a solid foundation for understanding new technologies and programming concepts, allowing me to adapt and learn quickly.
 
