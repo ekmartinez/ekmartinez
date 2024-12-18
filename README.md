@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 
+## Empowering Administration: Where Technology Meets Efficiency 
 
 I have a strong passion for technology and programming, which I have developed alongside my career in finance and accounting. Throughout my professional journey, I have developed several task automation programs that have streamlined processes and enhanced efficiency in every role I've held.
 
