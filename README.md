@@ -1,4 +1,4 @@
-# Hi, I'm Erick Martinez
+# 
 
 I'm a CPA with an MBA in Finance, and a self-taught programmer (Python, C, C++). I use code to automate parts of my accounting and finance work, and as a way to keep sharpening skills in both fields at once.
 
@@ -21,4 +21,4 @@ Agentic AI is genuinely powerful — in areas like fraud detection, continuous a
 
 ## Background
 
-CPA | MBA in Finance | Python · C · C++
+  * [ ] CPA | MBA in Finance | Python · C · C++
