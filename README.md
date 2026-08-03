@@ -1,25 +1,24 @@
-# Innovative Solutions for Financial Efficiency
+# Hi, I'm Erick Martinez
 
-As a Certified Public Accountant (CPA) with a strong passion for technology, I have effectively combined my finance and accounting expertise with programming to enhance operational efficiency. Throughout my career, I have developed innovative task automation solutions that streamline financial processes, improve accuracy, and save valuable time.
+I'm a CPA with an MBA in Finance, and a self-taught programmer (Python, C, C++). I use code to automate parts of my accounting and finance work, and as a way to keep sharpening skills in both fields at once.
 
-## Professional Expertise
+## What's in my repositories
 
-- **Accounting & Finance:** Extensive experience in financial reporting, budgeting, forecasting, and compliance. Proficient in analyzing financial data to support strategic decision-making.
-- **CPA Certification:** Demonstrates my commitment to the highest standards of professionalism and ethics in accounting.
-- **Technical Skills:** 
-  - **Programming Languages:** Python, C, Excel VBA
-  - **Data Analysis:** Skilled in using data analysis libraries such as Pandas, NumPy, and Matplotlib to derive insights from financial data.
-  - **Technologies:** Familiar with Linux and cybersecurity principles, enhancing data security and integrity.
+- **Automation tools** for accounting and finance tasks — the kind of repetitive work that's better handed to a script than done by hand.
+- **Textbook problem sets solved in Jupyter notebooks.** I pick a textbook — finance, accounting, taxation, financial planning — and work through the chapter problems in Python. It forces me to actually understand the material instead of just recognizing it, and it also shows, concretely, how these tools get used in a professional context rather than something you'd frame and hang on a wall.
 
-## Vision
+## Where AI fits in my work
 
-I am dedicated to leveraging technology to maximize productivity and improve financial processes. By integrating innovative solutions, I aim to transform the way organizations operate, driving efficiency and effectiveness in every aspect of finance and accounting.
+I use AI tools, but I don't hand them the thinking. My approach is to do the heavy lifting myself — the calculations, the logic, the data processing — in code I understand and can verify, and use AI afterward for interpretation or a second opinion, not as the engine doing the work.
 
-## Relevant Repositories
+A few reasons for that:
 
-Here are some repositories that focus on accounting and finance:
+- **Cost.** If a workflow depends entirely on an AI subscription, what happens when that stops being affordable, or the model gets discontinued?
+- **Hallucination.** Models can be confidently wrong. I'd rather trust a program I wrote and can check than an answer I can't fully verify.
+- **Skill.** If I outsource the thinking now, I don't build the judgment I'll need later, with or without AI.
 
-- [Financial Management](https://github.com/ekmartinez/Financial_Management) - Solving finance problems with python.
-- [Managerial Accounting ](https://github.com/ekmartinez/Cost_Volume_Profit) - Solving managerial accounting problems with python.
-- [Sampling](https://github.com/ekmartinez/sampling) - Risk Based Automatic Random Sample Selector.
-- [Depreciation Calculator](https://github.com/ekmartinez/Depreciation_Calculator) - Depreciate your asset with this handy tool.
+Agentic AI is genuinely powerful — in areas like fraud detection, continuous audit monitoring, and compliance tracking, but also in cybersecurity. The same limitations apply, though: cost and hallucination still shape how much you can actually rely on it.
+
+## Background
+
+CPA | MBA in Finance | Python · C · C++
